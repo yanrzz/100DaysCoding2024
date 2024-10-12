@@ -25,7 +25,7 @@ public class Days40 {
         System.out.println("hasil penjumlaha "+ d );
         System.out.println("apakah hasil penjumlahan lebih besar 2 "+ (d > 2));
         System.out.println("hasil pengurangan "+ e);
-        System.out.println("apakah hasil pengurangan lebih kecil "+ (2 < 2));
+        System.out.println("apakah hasil pengurangan lebih kecil "+ (e < 2));
         
         
     }

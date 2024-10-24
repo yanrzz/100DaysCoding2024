@@ -8,7 +8,7 @@ public class Days53 {
         int a = input.nextInt();
         System.out.print("nilai akhir: ");
         int b = input.nextInt();
-        for (int i = a; i <= b; i++) {
+        for (int i = a; i <= b;) {
             System.out.println(i+" .yusran");
             
         }

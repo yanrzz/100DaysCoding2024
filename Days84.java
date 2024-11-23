@@ -9,5 +9,6 @@ package pkg100dayscoding;
  * @author LENOVO
  */
 public class Days84 {
+    int [] a = {};
     
 }

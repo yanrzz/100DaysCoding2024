@@ -9,7 +9,7 @@ package pkg100dayscoding;
  * @author LENOVO
  */
 public class Days84 {
-    public static void main(String [] args){
+    public static void main(String[] args){
     int [] a = {};
     
 }
